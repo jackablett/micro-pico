@@ -9,4 +9,4 @@ Downloaded the [latest](https://github.com/jackablett/micro-pico/releases) firmw
 *NOTE: I would potentially try to intergate older devices in the future!*
 ## Documentation
 - [Quickstart guide](https://github.com/jackablett/micro-pico/blob/main/documentation/getting-started.md)
-- [Reset Pico](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/circuitpython#flash-resetting-uf2-3083182)(external)
+- [Reset Pico](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/circuitpython#flash-resetting-uf2-3083182) (external)
