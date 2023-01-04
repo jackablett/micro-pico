@@ -2,6 +2,6 @@
 
 Import the LED module into the **main.py**
 
-``python
+```python
 from micro_pico import led
 ```
