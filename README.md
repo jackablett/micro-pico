@@ -9,4 +9,5 @@ Download the [latest](https://github.com/jackablett/micro-pico/releases) firmwar
 *NOTE: I would potentially try to intergate older devices in the future!*
 ## Documentation
 - [Quickstart guide](https://github.com/jackablett/micro-pico/blob/main/documentation/getting-started.md)
+- [*IMPORTANT* Functions](https://github.com/jackablett/micro-pico/tree/main/documentation/modules)
 - [Reset Pico](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/circuitpython#flash-resetting-uf2-3083182) (external)
