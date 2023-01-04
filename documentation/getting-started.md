@@ -7,4 +7,5 @@
 ## Functions
 
 Check out the fuctions tab in the documentation section [check it out](https://github.com/jackablett/micro-pico/tree/main/documentation/modules)
+
 It goes into more detail about the basic and advanced uses of the module provided by Micro Pico.
