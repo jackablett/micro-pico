@@ -29,5 +29,5 @@ led.off()
 Blink the LED
 
 ```python
-led.blink("blink ammount int", "duration of pauses in blink")
+led.blink("blink ammount int", "duration of pauses in the blinks")
 ```
