@@ -8,19 +8,19 @@ from micro_pico import log
 
 ## Functions
 
-Log a peice of Information
+Log a peice of Information content
 
 ```python
 log.info(info string content here...)
 ```
 
-Log a Warning content
+Log a peice of Warning content
 
 ```python
 log.warn(warn string content here...)
 ```
 
-Log an Error content
+Log a peice of Error content
 
 ```python
 log.error(error string content here...)
