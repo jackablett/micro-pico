@@ -33,3 +33,9 @@ Get the current local time (returns date & time as a string)
 ```python
 log.datetime_string()
 ```
+
+Reads then prints out the log file
+
+```python
+log.read_logs()
+```
