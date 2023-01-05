@@ -28,7 +28,7 @@ log.error(error string content here...)
 
 ## Other function
 
-Get the current local time, (returns date & time as a string)
+Get the current local time (returns date & time as a string)
 
 ```python
 log.datetime_string()
