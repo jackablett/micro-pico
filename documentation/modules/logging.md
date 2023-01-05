@@ -26,7 +26,7 @@ Log an Error content
 log.error(error string content here...)
 ```
 
-## Other function
+## Other functions
 
 Get the current local time (returns date & time as a string)
 
