@@ -11,4 +11,4 @@ Download the [latest](https://github.com/jackablett/micro-pico/releases) firmwar
 ## Supported devices
 - [Pico W](https://shop.pimoroni.com/products/raspberry-pi-pico-w?variant=40059369619539) (buy on pimoroni, not sponsored or endorsed)
 
-***NOTE**: I would potentially try to intergate older devices in the future!*
+***NOTE**: I would potentially try to intergate older devices in the future and also try to add server functions like [phew](https://github.com/pimoroni/phew)*
